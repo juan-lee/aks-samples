@@ -1,0 +1,3 @@
+resources:
+- ../bases/falco
+- ../bases/secret-store-azure
